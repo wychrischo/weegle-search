@@ -1,0 +1,31 @@
+.search-input {
+  display: block;
+  border-width: 1px;
+  border-color: #ececec;
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+  border-radius: 30px;
+  padding: 15px 17px 15px 17px;
+}
+
+.fa-search {
+  position: absolute;
+  top: 466px;
+  left: 580px;
+  color: #808080;
+}
+
+.fa-keyboard {
+  position: absolute;
+  top: 466px;
+  right: 610px;
+}
+
+.fa-microphone {
+  position: absolute;
+  top: 466px;
+  right: 585px;
+  color: #4f87ec;
+}

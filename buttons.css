@@ -1,0 +1,19 @@
+.buttons {
+  text-align: center;
+}
+
+.search-button {
+  padding: 15px 15px 15px 15px;
+  border-radius: 5px;
+  border: none;
+  color: #66676b;
+  margin-right: 5px;
+}
+
+.lucky-button {
+  padding: 15px 15px 15px 15px;
+  border-radius: 5px;
+  border: none;
+  color: #66676b;
+  margin-left: 5px;
+}
